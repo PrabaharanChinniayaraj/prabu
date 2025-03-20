@@ -2,7 +2,10 @@ hello hi
 how are you
 <<<<<<< HEAD
 welcome
+<<<<<<< Updated upstream
 =======
 welcome
 >>>>>>> 041d79c86911a4f90216eed5fc0ea9d25ee335e1
 newline added
+=======
+>>>>>>> Stashed changes
